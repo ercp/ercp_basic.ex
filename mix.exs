@@ -27,7 +27,7 @@ defmodule ERCPBasic.MixProject do
 
       # Package
       package: package(),
-      description: "An implementation of ERCP Basic in Elixir."
+      description: "Elixir implementation of ERCP Basic."
     ]
   end
 
